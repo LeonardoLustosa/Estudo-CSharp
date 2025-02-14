@@ -1,0 +1,14 @@
+E:\C#\Proposto\Proposto\bin\Debug\net9.0\Proposto.exe
+E:\C#\Proposto\Proposto\bin\Debug\net9.0\Proposto.deps.json
+E:\C#\Proposto\Proposto\bin\Debug\net9.0\Proposto.runtimeconfig.json
+E:\C#\Proposto\Proposto\bin\Debug\net9.0\Proposto.dll
+E:\C#\Proposto\Proposto\bin\Debug\net9.0\Proposto.pdb
+E:\C#\Proposto\Proposto\obj\Debug\net9.0\Proposto.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Proposto\Proposto\obj\Debug\net9.0\Proposto.AssemblyInfoInputs.cache
+E:\C#\Proposto\Proposto\obj\Debug\net9.0\Proposto.AssemblyInfo.cs
+E:\C#\Proposto\Proposto\obj\Debug\net9.0\Proposto.csproj.CoreCompileInputs.cache
+E:\C#\Proposto\Proposto\obj\Debug\net9.0\Proposto.dll
+E:\C#\Proposto\Proposto\obj\Debug\net9.0\refint\Proposto.dll
+E:\C#\Proposto\Proposto\obj\Debug\net9.0\Proposto.pdb
+E:\C#\Proposto\Proposto\obj\Debug\net9.0\Proposto.genruntimeconfig.cache
+E:\C#\Proposto\Proposto\obj\Debug\net9.0\ref\Proposto.dll
