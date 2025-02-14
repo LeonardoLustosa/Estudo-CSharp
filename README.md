@@ -1,2 +1,2 @@
-# Estudo-C-
-Studying Repository
+Exercicios C#
+
