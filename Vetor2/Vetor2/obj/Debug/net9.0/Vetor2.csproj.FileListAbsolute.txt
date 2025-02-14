@@ -1,0 +1,14 @@
+E:\C#\Vetor2\Vetor2\bin\Debug\net9.0\Vetor2.exe
+E:\C#\Vetor2\Vetor2\bin\Debug\net9.0\Vetor2.deps.json
+E:\C#\Vetor2\Vetor2\bin\Debug\net9.0\Vetor2.runtimeconfig.json
+E:\C#\Vetor2\Vetor2\bin\Debug\net9.0\Vetor2.dll
+E:\C#\Vetor2\Vetor2\bin\Debug\net9.0\Vetor2.pdb
+E:\C#\Vetor2\Vetor2\obj\Debug\net9.0\Vetor2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Vetor2\Vetor2\obj\Debug\net9.0\Vetor2.AssemblyInfoInputs.cache
+E:\C#\Vetor2\Vetor2\obj\Debug\net9.0\Vetor2.AssemblyInfo.cs
+E:\C#\Vetor2\Vetor2\obj\Debug\net9.0\Vetor2.csproj.CoreCompileInputs.cache
+E:\C#\Vetor2\Vetor2\obj\Debug\net9.0\Vetor2.dll
+E:\C#\Vetor2\Vetor2\obj\Debug\net9.0\refint\Vetor2.dll
+E:\C#\Vetor2\Vetor2\obj\Debug\net9.0\Vetor2.pdb
+E:\C#\Vetor2\Vetor2\obj\Debug\net9.0\Vetor2.genruntimeconfig.cache
+E:\C#\Vetor2\Vetor2\obj\Debug\net9.0\ref\Vetor2.dll
