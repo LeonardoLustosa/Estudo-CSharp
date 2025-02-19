@@ -1,0 +1,14 @@
+E:\C#\POO5\POO5\bin\Debug\net9.0\POO5.exe
+E:\C#\POO5\POO5\bin\Debug\net9.0\POO5.deps.json
+E:\C#\POO5\POO5\bin\Debug\net9.0\POO5.runtimeconfig.json
+E:\C#\POO5\POO5\bin\Debug\net9.0\POO5.dll
+E:\C#\POO5\POO5\bin\Debug\net9.0\POO5.pdb
+E:\C#\POO5\POO5\obj\Debug\net9.0\POO5.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\POO5\POO5\obj\Debug\net9.0\POO5.AssemblyInfoInputs.cache
+E:\C#\POO5\POO5\obj\Debug\net9.0\POO5.AssemblyInfo.cs
+E:\C#\POO5\POO5\obj\Debug\net9.0\POO5.csproj.CoreCompileInputs.cache
+E:\C#\POO5\POO5\obj\Debug\net9.0\POO5.dll
+E:\C#\POO5\POO5\obj\Debug\net9.0\refint\POO5.dll
+E:\C#\POO5\POO5\obj\Debug\net9.0\POO5.pdb
+E:\C#\POO5\POO5\obj\Debug\net9.0\POO5.genruntimeconfig.cache
+E:\C#\POO5\POO5\obj\Debug\net9.0\ref\POO5.dll
